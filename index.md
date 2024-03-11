@@ -36,17 +36,29 @@ We will share this section in June/2024.
 
 ## References 
 [1] Intel Corporation, "OpenVINO™ Training Extensions", [Online]. Available: https://github.com/openvinotoolkit/training_extensions. Intel Corporation, 2023. [Accessed 27 November 2023]. 
+
 [2] OpenMMLab, [Online]. Available: https://github.com/open-mmlab.  [Accessed 27 November 2023]. 
+
 [3] Lightning.ai, [Online]. Available: https://lightning.ai/. [Accessed 27 November 2023].
+
 [4] Intel Corporation, "Anomalib”, [Online]. Available: https://github.com/openvinotoolkit/anomalib/tree/main. Intel Corporation, 2023. [Accessed 27 November 2023].
+
 [5] Q. Fu, et al., "Deep Learning Models on CPUs: A Methodology for Efficient Training," arXiv preprint arXiv:2206.10034, 2022. 
+
 [6] Intel Corporation, “Remote Tensor API of GPU Plugin,” Intel corporation, 2023. Available online: OpenVINO Documentation [Accessed 5 November 2023].
+
 [7] Intel Corporation, "OpenVINO Stable Diffuison (with LoRA) C++ pipeline," Intel Corporation, 2023. Available online: OpenVINO Documentation. [Accessed 5 November 2023].
+
 [8] S.Luo, et al., " LCM-LoRA: A Universal Stable-Diffusion Acceleration Module," arXiv:2311.05556 Available online: arXiv [Accessed 4 December 2023].
+
 [9] Zhen Zhao and Kunda Xu, "Enable LoRA Weights with Stable Diffusion Controlnet Pipeline," Intel Corporation, 7 Aug. 2023. Available online: Intel Community Blog. [Accessed 5 November 2023].
+
 [10] Intel Corporation, "Neural Network Compression Framework (NNCF)", [Online]. Available: https://github.com/openvinotoolkit/nncf. Intel Corporation, 2023. [Accessed 27 November 2023].
+
 [11] K. Chen, C. Loy, H. Hu, H. Zhao, and H. Duan, "OpenMMLab: A Foundational Platform for Computer Vision Research and Production", [Online]. Available: https://openmmlab.com/community/cvpr2022-tutorial. OpenMMLab, 20 June 2022. [Accessed 27 November 2023].
+
 [12] K. Chen, C. He, Y. Zeng, S. Zhang, and W. Zhang, "Boosting Computer Vision Research with OpenMMLab and OpenDataLab", [Online]. Available: https://openmmlab.com/community/cvpr2023-tutorial. OpenMMLab, 18 June 2023. [Accessed 27 November 2023].
+
 [13] P. Ramos, Z. Wu, Y. Gorvachev, and R. Lo, "How to get quick and performant model for your edge application. From data to application", [Online]. Available: https://paularamo.github.io/cvpr-2022. Intel Corporation, 19 June 2022. [Accessed 27 November 2023].
 
 
