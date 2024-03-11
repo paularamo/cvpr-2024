@@ -1,0 +1,12 @@
+title: OpenVINO by Intel CVPR-2022
+logo: https://user-images.githubusercontent.com/10940214/165390335-953f8f8f-92d8-4ed0-96c7-1b400027eca4.png
+description: How to get quick and performant model for your edge application. From data to application.
+#authors:
+#  social:
+#    email:    mailto:paula.ramos@intel.com
+#    linkedin: https://www.linkedin.com/in/paula-ramos-41097319/
+#  picture:
+#    path:   /img/paula.jpg
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
