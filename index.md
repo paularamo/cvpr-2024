@@ -21,11 +21,11 @@ We will share this section in April/2024.
 
 ## Outline
 
-1.	OpenVINO, OpenVINO Training eXtensions (OTX) and NNCF. Fundamentals
-2.	Module 1: Data management, training, and fine-tuning downstream Computer Vision tasks.
-3.	Module 2: Optimize and run Gen AI pipelines on your laptop. SD with LoRA weights. 
-4.	Module 3: Optimization with NNCF for Computer Vision and Gen AI (Multimodal).
-5.	Module 4: Evaluate and deploy your solution as an edge-computing system. Multiple Computer Vision tasks and Gen AI pipelines on a wide range of HW.
+1.	Fundamentals: OpenVINO, OpenVINO Training eXtensions (OTX) and NNCF. Hands-on Experience. 8.30 AM - 10:00 AM.
+2.	Module 1: Data management, training, and fine-tuning downstream Computer Vision tasks. Hands-on Experience. 10:00 AM - 12:00 PM
+3.	Module 2: Optimize and run Gen AI pipelines on your laptop. SD with LoRA weights. Hands-on Experience. 1.30 PM - 3.00 PM
+4.	Module 3: Optimization with NNCF for Computer Vision and Gen AI (Multimodal). Hands-on Experience. 3.30 PM - 5:00 PM
+All Modules will be evaluate and deployed in an edge system. Multiple Computer Vision tasks and Gen AI pipelines on a wide range of HW.
 
 ## Slides
 We will share this section in June/2024.
