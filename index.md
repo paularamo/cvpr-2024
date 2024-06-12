@@ -16,19 +16,14 @@
 This tutorial aims to guide researchers and practitioners in navigating the complex deep learning (DL) landscape, focusing on data management, training methodologies, optimization strategies, and deployment techniques. It highlights open-source libraries like the OpenVINO toolkit, OpenVINO Training eXtensions (OTX), and Neural Network Compression Frameworks (NNCF) in streamlining DL development. The tutorial covers how OTX 2.0 [1] simplifies the DL ecosystem (Computer Vision) by integrating various frameworks and ensuring a consistent experience across different platforms (MMLab [2], Lightning [3], or Anomalib [4]). It also demonstrates how to  fine-tune generative AI models, specifically Stable Diffusion SD with LoRA, and the benefits of customized models in reducing latency and enhancing efficiency. The tutorial explores fine-tuning visual prompting tasks, including Segment Anything Model (SAM). It explains how to fine-tune a SD model with custom data using multiple acceleration methods [5, 6], and how to deploy the fine-tuned model using OpenVINO Transformation Passes API [9]. Lastly, the tutorial focuses on model optimization capabilities for the inference phase, with the OpenVINO toolkit and OTX library integrating with NNCF [10] to refine neural networks and improve inference speed, especially on edge devices with limited resources. The tutorial includes demos showcasing how OpenVINO runtime API enables real-time inference on various devices.
 
 
-## Prework:
-We will share this section in April/2024.
-
 ## Outline
 
-1.	Fundamentals: OpenVINO, OpenVINO Training eXtensions (OTX) and NNCF. Hands-on Experience. 8.30 AM - 10:00 AM.
+1.	Fundamentals: OpenVINO, OpenVINO Training eXtensions (OTX) and NNCF. Hands-on Experience. 8.30 AM - 10:00 AM. [Slides - Fundamentals] (https://github.com/paularamo/cvpr-2024/blob/main/Fundamentals.pdf)
 2.	Module 1: Data management, training, and fine-tuning downstream Computer Vision tasks. Hands-on Experience. 10:00 AM - 12:00 PM
-3.	Module 2: Optimize and run Gen AI pipelines on your laptop. SD with LoRA weights. Hands-on Experience. 1.30 PM - 3.00 PM
-4.	Module 3: Optimization with NNCF for Computer Vision and Gen AI (Multimodal). Hands-on Experience. 3.30 PM - 5:00 PM
+3.	Module 2: Optimize and run Gen AI pipelines on your laptop. SD with LoRA weights. Hands-on Experience. 1.30 PM - 3.00 PM. [Slides - Module 2](https://github.com/paularamo/cvpr-2024/blob/main/Module2.pdf)
+ 4.	Module 3: Optimization with NNCF for Computer Vision and Gen AI (Multimodal). Hands-on Experience. 3.30 PM - 5:00 PM. [Slides - Module 3](https://github.com/paularamo/cvpr-2024/blob/main/Module3.pdf)
 All Modules will be evaluate and deployed in an edge system. Multiple Computer Vision tasks and Gen AI pipelines on a wide range of HW.
 
-## Slides
-We will share this section in June/2024.
 
 ## References 
 [1] Intel Corporation, "OpenVINO™ Training Extensions", [Online]. Available: https://github.com/openvinotoolkit/training_extensions. Intel Corporation, 2023. [Accessed 27 November 2023]. 
