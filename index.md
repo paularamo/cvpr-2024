@@ -19,7 +19,7 @@ This tutorial aims to guide researchers and practitioners in navigating the comp
 ## Outline
 
 1.	Fundamentals: OpenVINO, OpenVINO Training eXtensions (OTX) and NNCF. Hands-on Experience. 8.30 AM - 10:00 AM. [Slides - Fundamentals](https://github.com/paularamo/cvpr-2024/blob/main/Fundamentals.pdf)
-2.	Module 1: Data management, training, and fine-tuning downstream Computer Vision tasks. Hands-on Experience. 10:00 AM - 12:00 PM [slides - Module 1](https://github.com/paularamo/cvpr-2024/blob/main/Module1.pdf)
+2.	Module 1: Data management, training, and fine-tuning downstream Computer Vision tasks. Hands-on Experience. 10:00 AM - 12:00 PM [slides - Module 1](https://github.com/paularamo/cvpr-2024/blob/main/Module1_updated.pdf)
 3.	Module 2: Optimize and run Gen AI pipelines on your laptop. SD with LoRA weights. Hands-on Experience. 1.30 PM - 3.00 PM. [Slides - Module 2](https://github.com/paularamo/cvpr-2024/blob/main/Module2.pdf)
  4.	Module 3: Optimization with NNCF for Computer Vision and Gen AI (Multimodal). Hands-on Experience. 3.30 PM - 5:00 PM. [Slides - Module 3](https://github.com/paularamo/cvpr-2024/blob/main/Module3.pdf)
 
